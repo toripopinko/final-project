@@ -3,15 +3,42 @@
     use this file for your custom styles
 ========================================== */
 
+/* use a box model that makes sense */
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* set the default color, font-size, and line height */
 html {
     color: #333;
     font-size: 1em;
     line-height: 1.4;
 }
 
-/* place your custom styles here */
+/* type hierarchy- change for your project */
 
+h1 {
+  font-size: 3em; /* 48px */
+}
 
+h2 {
+  font-size: 2.25em /* 36px */
+}
+
+h3 {
+  font-size: 1.75em /* 28px */
+}
+
+h4 {
+  font-size: 1.125em /*18px */
+}
+
+/* =======================================
+    author styles
+    place your custom styles below here
+========================================== */
 
 
 
