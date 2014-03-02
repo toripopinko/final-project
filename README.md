@@ -18,7 +18,7 @@ This is a sample project directory for the DMD1070 course. It's meant to allow s
 
 The MIT License (MIT)
 
-Copyright (c) [2014] [Adam D. Scott]
+Copyright (c) 2014 Adam D. Scott
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
