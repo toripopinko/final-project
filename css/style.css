@@ -12,13 +12,18 @@
 
 /* set the default color, font-size, and line height */
 html {
-    color: #333;
-    font-size: 1em;
-    line-height: 1.4;
+  color: #333;
+  font-size: 1em;
+  line-height: 1.4;
+}
+
+/* make images and embedded media fluid */
+img,
+object {
+  max-width: 100%;
 }
 
 /* type hierarchy- change for your project */
-
 h1 {
   font-size: 3em; /* 48px */
 }
@@ -85,10 +90,10 @@ h4 {
 
 .clearfix:before,
 .clearfix:after {
-    content: " "; /* 1 */
-    display: table; /* 2 */
+  content: " "; /* 1 */
+  display: table; /* 2 */
 }
 
 .clearfix:after {
-    clear: both;
+  clear: both;
 }
