@@ -5,7 +5,7 @@ A student project starter
 
 ## Purpose
 
-This is a sample project directory for the DMD1070 course. It's meant to allow students to quickly spin up  simple web projects.
+This is a sample project directory for the COM372 course. It's meant to allow students to quickly spin up simple web projects.
 
 ## How to use
 
@@ -18,7 +18,7 @@ This is a sample project directory for the DMD1070 course. It's meant to allow s
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Adam D. Scott
+Copyright (c) 2014 Adam D. Scott (from his [DMD1070 Project Tempate](https://github.com/DMD1070/project-template))
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
